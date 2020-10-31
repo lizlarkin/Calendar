@@ -11,7 +11,7 @@ me to start to understand how to use local storage.
 
 31-Oct-2020 LL
 
-Link to deployed site: 
+Link to deployed site: https://lizlarkin.github.io/Calendar/
 
 Screenshot:
 <img src="Calendar_screenshot.png">
