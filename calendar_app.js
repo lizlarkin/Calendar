@@ -1,5 +1,5 @@
 $(document).ready(function () {
-// Display current day at top of calendar
+// Display current day and time at top of calendar
 var currentTime = moment().format("dddd, MMMM Do YYYY, h:mm a");
 $("#currentDay").text(currentTime);
 
